@@ -66,40 +66,40 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ## Original data(first five columns):
-![Screenshot (13)](https://user-images.githubusercontent.com/87666371/174466991-5f0c9874-9dd3-49c4-99a1-af8dd01297f4.png)
+![original data](https://user-images.githubusercontent.com/87666371/174467914-8638c3d3-7d75-49c6-b150-d2fec4c7d9ab.png)
 
 ## Data after dropping unwanted columns(first five):
-![Screenshot (14)](https://user-images.githubusercontent.com/87666371/174467010-8ba28cda-d4d2-4034-9544-e1c4f55ec8de.png)
+![dataafterdropping](https://user-images.githubusercontent.com/87666371/174467921-26b10910-a52b-4073-89eb-1494ac2fa052.png)
 
 ## Checking the presence of null values:
-![Screenshot (16)](https://user-images.githubusercontent.com/87666371/174467031-37d4b3a5-6925-48d2-9861-815a9946cdca.png)
+![presencevalue](https://user-images.githubusercontent.com/87666371/174467928-eb9e212e-051b-4e05-9bc2-d1debf1bf6e2.png)
 
 ## Checking the presence of duplicated values:
-![Screenshot (38)](https://user-images.githubusercontent.com/87666371/174467628-9ed278e5-8d5e-41a1-b0d1-d18287904034.png)
+![duplicaredvalue](https://user-images.githubusercontent.com/87666371/174467938-4b0c1a6d-c1ee-4f2a-a461-d922524c7eec.png)
 
 ## Data after Encoding:
-![Screenshot (23)](https://user-images.githubusercontent.com/87666371/174467085-722dd946-8929-45fa-b932-a3b6b10acc58.png)
+![dataaftercoding](https://user-images.githubusercontent.com/87666371/174467947-af4afd87-789a-4d3c-99ac-912412d7b742.png)
 
 ## X Data:
-![Screenshot (25)](https://user-images.githubusercontent.com/87666371/174467105-e9ccfe2f-d22f-4875-9b1e-33ed8530cbc4.png)
+![xdata](https://user-images.githubusercontent.com/87666371/174467960-34fb2f1b-adc9-43da-894f-6ebcb52182a5.png)
 
 ## Y Data:
-![Screenshot (27)](https://user-images.githubusercontent.com/87666371/174467134-263c4c8e-4ae0-48d2-8e9a-37abc254e1fb.png)
+![ydata](https://user-images.githubusercontent.com/87666371/174467981-e31fb1ab-c655-47ef-bc51-d5e57a5de06d.png)
 
 ## Predicted Values:
-![Screenshot (29)](https://user-images.githubusercontent.com/87666371/174467242-11d0755d-3df7-4c91-853b-405fbe6be2e8.png)
+![predicted](https://user-images.githubusercontent.com/87666371/174467803-4104cda4-4b4f-4ba8-b7c2-cef18e734bd0.png)
 
 ## Accuracy Score:
-![Screenshot (33)](https://user-images.githubusercontent.com/87666371/174467383-25f203db-f99c-452f-95d9-7856df71d398.png)
+![accuracyscore](https://user-images.githubusercontent.com/87666371/174467989-89175b84-8049-4717-aac9-7a4849002895.png)
 
 ## Confusion Matrix:
-![Screenshot (34)](https://user-images.githubusercontent.com/87666371/174467412-70563b86-c118-43d0-ad00-e03d7c6f2291.png)
- 
+ ![confusionmatrix](https://user-images.githubusercontent.com/87666371/174468000-3d7c273c-8cfe-4f99-96e0-73334aeb8fe9.png)
+
 ## Classification Report:
-![Screenshot (31)](https://user-images.githubusercontent.com/87666371/174467314-07e0e6d4-7d99-4750-a8e5-a07bb8b62409.png)
+![classificationmatrix](https://user-images.githubusercontent.com/87666371/174468013-6cdff41d-4622-4a19-80f9-b9f83378ca1a.png)
  
 ## Predicting output from Regression Model:
-![Screenshot (36)](https://user-images.githubusercontent.com/87666371/174467446-4c547a6c-4aa1-46ff-a9cb-711ba12d02f5.png)
+![outputRM](https://user-images.githubusercontent.com/87666371/174468020-2e428160-d8b7-4e78-b2f7-7ddc4a789ed8.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
